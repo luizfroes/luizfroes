@@ -7,4 +7,4 @@ I am Luiz a brazilian Full Stack Developer living in Birmingham, UK.
   
 - 👯 I’m looking to collaborate on Projects
   
-- ⚡ Fun fact: Ilove to play my guitar.
+- ⚡ Fun fact: I love to play my guitar.
